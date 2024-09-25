@@ -4,6 +4,9 @@ resolver = "1"  # Se il tuo progetto è semplice e non hai problemi con le dipen
 # Se vuoi sfruttare appieno le funzionalità di Rust 2021 e successive, o se incontri problemi con le dipendenze, dovresti passare al resolver "2".
 # resolver = "2"
 
-members = [ "antivirus",
-    "app_dating", "distributore-automatico", "paypal_flixbus",
+members = [ 
+    "antivirus",
+    "app_dating", 
+    "distributore-automatico", 
+    "paypal_flixbus",
 ]

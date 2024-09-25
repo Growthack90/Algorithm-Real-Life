@@ -3,5 +3,17 @@
 version = 3
 
 [[package]]
+name = "antivirus"
+version = "0.1.0"
+
+[[package]]
 name = "app_dating"
+version = "0.1.0"
+
+[[package]]
+name = "distributore-automatico"
+version = "0.1.0"
+
+[[package]]
+name = "paypal_flixbus"
 version = "0.1.0"
