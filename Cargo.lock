@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "analisi_nutrizionale"
+version = "0.1.0"
+
+[[package]]
 name = "antivirus"
 version = "0.1.0"
 
