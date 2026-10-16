@@ -9,4 +9,5 @@ members = [ "analisi_nutrizionale",
     "app_dating", 
     "distributore-automatico", 
     "paypal_flixbus",
+    "smart-contract",
 ]
