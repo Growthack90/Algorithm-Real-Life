@@ -82,3 +82,4 @@ Cargo ti suggerisce due opzioni:
 - PayPal (acquisto biglietto Flixbus)
 - Antivirus
 - Analisi Nutrizionale
+- SmartContract
